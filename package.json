@@ -1,12 +1,12 @@
 {
-  "name": "nft",
+  "name": "Ace Award",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is Accenture's Ace Award certificate NFT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Shivam Jaiswal",
   "license": "ISC",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
